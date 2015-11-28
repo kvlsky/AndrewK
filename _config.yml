@@ -1,0 +1,10 @@
+name: Andrew Koval
+port: 2280
+markdown: redcarpet
+exclude: ["node_modules",
+  "gulpfile.js",
+  "package.json",
+  "preview.jpg",
+  "README.md"]
+sass:
+  sass_dir: assets/css/_sass
